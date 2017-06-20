@@ -1,0 +1,24 @@
+item.rawbacon.name=Raw Bacon
+item.cookedbacon.name=Cooked Bacon
+item.baconpick.name=Bacon Pickaxe
+item.baconhoe.name=Bacon Hoe
+item.baconspade.name=Bacon Shovel
+item.baconsword.name=Bacon Sword
+item.baconaxe.name=Bacon Axe
+item.baconhelmet.name=Bacon Helmet
+item.baconchest.name=Bacon Chest
+item.baconlegs.name=Bacon Leggings
+item.baconboots.name=Bacon Boots
+item.gaybacon.name=§1G§2a§3y §4B§5a§6c§7o§8n
+item.baconlauncher.name=Bacon Thrower
+item.rawbeef.name=Raw Beef
+item.roastbeef.name=Roast Beef
+item.eggfried.name=Fried Egg
+item.bacongun.name=Bacon Gun
+item.beefsoup.name=Roast Beef Soup
+item.baconeggsandwich.name=Bacon Egg Sandwich
+
+tile.blockraw.name=Raw Bacon Block
+tile.blockcooked.name=Cooked Bacon Block
+
+itemGroup.bmod=Bacon Tab

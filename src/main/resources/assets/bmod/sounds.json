@@ -1,0 +1,7 @@
+{
+    "item.bacon_shoot.shoot": {
+        "category": "item",
+        "subtitle": "item.bacon_shoot.shoot",
+        "sounds": [ { "name": "bmod:item/bacon_shoot/shoot", "stream": true } ]
+    }
+   }

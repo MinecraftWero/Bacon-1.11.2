@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bmod",
+  "name": "Bacon Mod",
+  "description": "Adds bacon stuff to minecraft.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "http://www.minecraftforum.net/topic/1499035-162-bacon-mod/",
+  "updateUrl": "",
+  "authorList": ["MinecraftWero"],
+  "credits": "MinecraftWero",
+  "logoFile": "/baconlogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
